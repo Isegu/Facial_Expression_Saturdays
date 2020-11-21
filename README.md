@@ -1,5 +1,9 @@
 # Facial Expression Saturdays
 
-This project is part of Saturdays AI Donostia 2020 (1st edition)
+Este proyecto es parte de Saturdays AI Donostia 2020 (Primera edición)
 
-Team members: Paul Hernández, Iñaki Segurola, Nerea Solabarrieta, Jon Zabaleta
+Equipo: Paul Hernández, Iñaki Segurola, Nerea Solabarrieta, Jon Zabaleta
+
+Datasets utilizados:
+
+Objetivo principal:
